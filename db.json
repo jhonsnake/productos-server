@@ -1,0 +1,24 @@
+{
+  "libros": [
+    {
+      "id": 2,
+      "nombre": "React y Redux, Node y MongoDB",
+      "precio": "50"
+    },
+    {
+      "id": 3,
+      "nombre": "React del Futuro v2",
+      "precio": "60"
+    },
+    {
+      "nombre": "Aprendiendo Redux",
+      "precio": "12",
+      "id": 4
+    },
+    {
+      "nombre": "La magia de javascript",
+      "precio": "14",
+      "id": 5
+    }
+  ]
+}
